@@ -1,0 +1,9 @@
+== WARNING
+
+**Warning**: do not use this repository as the basis for your application. This
+application is a test repository and contains known security vulnerabilities.
+This application is mirrored from the [brakeman](https://github.com/presidentbeef/brakeman)
+test suite; the current version can be found
+[there](https://github.com/presidentbeef/brakeman/tree/master/test/apps/rails_with_xss_plugin).
+
+This is a test application which uses the rails_xss plugin
